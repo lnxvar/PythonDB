@@ -1,0 +1,2 @@
+# PythonDB
+MariaDB Python Connectovoty
